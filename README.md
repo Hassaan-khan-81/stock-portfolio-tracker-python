@@ -201,7 +201,6 @@ This project is licensed under the MIT License - feel free to use it for learnin
 ## 🌟 Acknowledgments
 
 - This project was created as part of my internship program
-- Self-completed with guidance from mentors!
 
 ---
 
